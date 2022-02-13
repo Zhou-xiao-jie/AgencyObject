@@ -8,7 +8,6 @@ import com.atxiaojie.agencyobject.service.impl.UserServiceProxy;
  * @Description: 静态代理
  * @author: zhouxiaojie
  * @date: 2021/11/3 19:20
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Test {
