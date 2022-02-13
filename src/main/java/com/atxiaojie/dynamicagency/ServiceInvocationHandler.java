@@ -9,7 +9,6 @@ import java.lang.reflect.Proxy;
  * @Description: TODO
  * @author: zhouxiaojie
  * @date: 2021/11/3 19:25
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class ServiceInvocationHandler implements InvocationHandler {
