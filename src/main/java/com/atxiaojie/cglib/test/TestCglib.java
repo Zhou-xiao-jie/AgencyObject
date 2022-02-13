@@ -8,7 +8,6 @@ import com.atxiaojie.cglib.service.UserServiceImpl;
  * @Description: cglib代理
  * @author: zhouxiaojie
  * @date: 2021/11/4 20:14
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class TestCglib {
